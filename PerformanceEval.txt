@@ -1,0 +1,150 @@
+Detector/Descriptor: SHITOMASI / BRISK
+Total keypoints over all images: 1179
+Total matched keypoints over all images: 767
+Total time for all images: 5236.47 ms
+
+Detector/Descriptor: SHITOMASI / BRIEF
+Total keypoints over all images: 1179
+Total matched keypoints over all images: 944
+Total time for all images: 536.914 ms
+
+Detector/Descriptor: SHITOMASI / ORB
+Total keypoints over all images: 1179
+Total matched keypoints over all images: 908
+Total time for all images: 759.573 ms
+
+Detector/Descriptor: SHITOMASI / FREAK
+Total keypoints over all images: 1179
+Total matched keypoints over all images: 768
+Total time for all images: 1374.65 ms
+
+Detector/Descriptor: SHITOMASI / SIFT
+Total keypoints over all images: 1179
+Total matched keypoints over all images: 622
+Total time for all images: 854.885 ms
+
+Detector/Descriptor: HARRIS / BRISK
+Total keypoints over all images: 91
+Total matched keypoints over all images: 67
+Total time for all images: 4652.07 ms
+
+Detector/Descriptor: HARRIS / BRIEF
+Total keypoints over all images: 91
+Total matched keypoints over all images: 72
+Total time for all images: 385.042 ms
+
+Detector/Descriptor: HARRIS / ORB
+Total keypoints over all images: 91
+Total matched keypoints over all images: 72
+Total time for all images: 467.646 ms
+
+Detector/Descriptor: HARRIS / FREAK
+Total keypoints over all images: 91
+Total matched keypoints over all images: 69
+Total time for all images: 1358.43 ms
+
+Detector/Descriptor: HARRIS / SIFT
+Total keypoints over all images: 91
+Total matched keypoints over all images: 62
+Total time for all images: 863.716 ms
+
+Detector/Descriptor: FAST / BRISK
+Total keypoints over all images: 4094
+Total matched keypoints over all images: 2183
+Total time for all images: 4652.47 ms
+
+Detector/Descriptor: FAST / BRIEF
+Total keypoints over all images: 4094
+Total matched keypoints over all images: 2831
+Total time for all images: 548.211 ms
+
+Detector/Descriptor: FAST / ORB
+Total keypoints over all images: 4094
+Total matched keypoints over all images: 2768
+Total time for all images: 584.223 ms
+
+Detector/Descriptor: FAST / FREAK
+Total keypoints over all images: 4094
+Total matched keypoints over all images: 2233
+Total time for all images: 1044.56 ms
+
+Detector/Descriptor: FAST / SIFT
+Total keypoints over all images: 4094
+Total matched keypoints over all images: 1678
+Total time for all images: 1124.54 ms
+
+Detector/Descriptor: BRISK / BRISK
+Total keypoints over all images: 2762
+Total matched keypoints over all images: 1570
+Total time for all images: 8978.15 ms
+
+Detector/Descriptor: BRISK / BRIEF
+Total keypoints over all images: 2762
+Total matched keypoints over all images: 1704
+Total time for all images: 5023.83 ms
+
+Detector/Descriptor: BRISK / ORB
+Total keypoints over all images: 2762
+Total matched keypoints over all images: 1675
+Total time for all images: 4892.96 ms
+
+Detector/Descriptor: BRISK / FREAK
+Total keypoints over all images: 2762
+Total matched keypoints over all images: 1524
+Total time for all images: 5452.69 ms
+
+Detector/Descriptor: BRISK / SIFT
+Total keypoints over all images: 2762
+Total matched keypoints over all images: 997
+Total time for all images: 8139.29 ms
+
+Detector/Descriptor: ORB / BRISK
+Total keypoints over all images: 1161
+Total matched keypoints over all images: 751
+Total time for all images: 4454.59 ms
+
+Detector/Descriptor: ORB / BRIEF
+Total keypoints over all images: 1161
+Total matched keypoints over all images: 545
+Total time for all images: 425.386 ms
+
+Detector/Descriptor: ORB / ORB
+Total keypoints over all images: 1161
+Total matched keypoints over all images: 562
+Total time for all images: 394.326 ms
+
+Detector/Descriptor: ORB / FREAK
+Total keypoints over all images: 1161
+Total matched keypoints over all images: 420
+Total time for all images: 1040.65 ms
+
+Detector/Descriptor: ORB / SIFT
+Total keypoints over all images: 1161
+Total matched keypoints over all images: 783
+Total time for all images: 5730.1 ms
+
+Detector/Descriptor: SIFT / BRISK
+Total keypoints over all images: 1386
+Total matched keypoints over all images: 592
+Total time for all images: 5954.05 ms
+
+Detector/Descriptor: SIFT / BRIEF
+Total keypoints over all images: 1386
+Total matched keypoints over all images: 702
+Total time for all images: 1990.77 ms
+
+Detector/Descriptor: SIFT / ORB
+Total keypoints over all images: 1386
+Total matched keypoints over all images: 681
+Total time for all images: 1981.84 ms
+
+Detector/Descriptor: SIFT / FREAK
+Total keypoints over all images: 1386
+Total matched keypoints over all images: 593
+Total time for all images: 2499.87 ms
+
+Detector/Descriptor: SIFT / SIFT
+Total keypoints over all images: 1386
+Total matched keypoints over all images: 395
+Total time for all images: 2286.49 ms
+
